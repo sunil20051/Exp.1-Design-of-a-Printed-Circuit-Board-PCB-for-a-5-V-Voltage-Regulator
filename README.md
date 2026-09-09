@@ -18,6 +18,7 @@ Apparatus Required
 
 Circuit Diagram
 
+<img width="960" height="504" alt="Screenshot 2026-08-03 133428" src="https://github.com/user-attachments/assets/e416aed9-4524-4c8a-a2d6-e980088389b5" />
 
 
 
@@ -46,8 +47,10 @@ Procedure
 Output:
 
 
+<img width="960" height="504" alt="Screenshot 2026-08-03 133814" src="https://github.com/user-attachments/assets/c9cbf0c0-3efc-45a9-bd1b-f30e267d2714" />
 
 
+<img width="960" height="504" alt="Screenshot 2026-08-03 134418" src="https://github.com/user-attachments/assets/28f722c6-4bf8-4f94-85d4-2e02db2065ec" />
 
 
 
